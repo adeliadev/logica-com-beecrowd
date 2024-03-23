@@ -36,3 +36,6 @@ def main():
     Retângulo: {retangulo:.3f}'''
 
     print(formatacao)
+
+if __name__ == '__main__':
+    main()
