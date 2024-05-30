@@ -4,3 +4,5 @@
 ## 📝Metas 
 - aprender a lidar com funções
 - melhorar raciocínio lógico
+- saber quando e onde usar cada coisa no código
+- fazer códigos mais limpos
